@@ -1,0 +1,14 @@
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\bin\Debug\net8.0\Broker.exe
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\bin\Debug\net8.0\Broker.deps.json
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\bin\Debug\net8.0\Broker.runtimeconfig.json
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\bin\Debug\net8.0\Broker.dll
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\bin\Debug\net8.0\Broker.pdb
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.dll
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\refint\Broker.dll
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.pdb
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\Broker.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Рабочий стол\Broker\Broker\obj\Debug\net8.0\ref\Broker.dll
