@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{520A4572-2CB3-4E0A-99D4-162CC80EB222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{0661434B-CCC4-44CC-ABD6-C406F677AA15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{BCB6219A-8C0C-48C5-996C-FD01EDD2CCF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520A4572-2CB3-4E0A-99D4-162CC80EB222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520A4572-2CB3-4E0A-99D4-162CC80EB222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520A4572-2CB3-4E0A-99D4-162CC80EB222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520A4572-2CB3-4E0A-99D4-162CC80EB222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0661434B-CCC4-44CC-ABD6-C406F677AA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0661434B-CCC4-44CC-ABD6-C406F677AA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0661434B-CCC4-44CC-ABD6-C406F677AA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0661434B-CCC4-44CC-ABD6-C406F677AA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB6219A-8C0C-48C5-996C-FD01EDD2CCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB6219A-8C0C-48C5-996C-FD01EDD2CCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB6219A-8C0C-48C5-996C-FD01EDD2CCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB6219A-8C0C-48C5-996C-FD01EDD2CCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334587FE-3F51-4862-92DE-94927D13E6E5}
+	EndGlobalSection
+EndGlobal
